@@ -1,5 +1,5 @@
 # basic-python-calculator
-Basic Python Calculator
+Basic Python calculator
 
 
 This Python calculator was purely made in fun.
