@@ -1,4 +1,4 @@
-# Made by Quasm Systems for fun
+# Made by Quasm Systems in fun
 # Basic calculator
 
 num1 = input("Enter your number:")
