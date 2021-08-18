@@ -1,6 +1,3 @@
-# Made by Quasm Systems for fun
-# Basic calculator
-
 num1 = input("Enter your number:")
 num2 = input("Enter your number:")
 operation = print("Enter your math operation (+ - * /)")
